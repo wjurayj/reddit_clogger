@@ -3,7 +3,7 @@
 This project provides a skeleton illustrating how a user can periodically filter through conversations and comments on Reddit, and upload responses to individual comments based on a set of rules & targets. 
 
 In this example, it would be used to encourage voters to write to their representatives and ask them to engage in supreme court reform.
-Adjustments to the THREAD_INTEREST_PROMPT, COMMENT_INTEREST_PROMPT, and COMMENT_REPLY_PROMPT can be used to adjust the publishing strategy.
+Adjustments to the `THREAD_INTEREST_PROMPT`, `COMMENT_INTEREST_PROMPT`, and `COMMENT_REPLY_PROMPT` should be used to adjust the publishing strategy.
 
 NOTE: DO NOT DEPLOY THIS SYSTEM WITHOUT UPDATING `openai.api_base` TO REFLECT YOUR LOCALLY HOSTED INSTANCE. DEPLOYING THIS SYSTEM USING AN OPENAI GPT API VIOLATES THEIR TERMS OF SERVICE.
 
