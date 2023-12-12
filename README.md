@@ -1,2 +1,2 @@
-# reddit_clogger
-An example script to amplify one's presence on social media
+# Your anonymous online conversations are mostly with bots!
+A lightweight script illustrating how one might amplify their presence on online social media platforms.
