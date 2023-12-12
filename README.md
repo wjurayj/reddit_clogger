@@ -1,4 +1,4 @@
-# Your anonymous online conversations are mostly with bots!
+# Your anonymous online interlocutors are probably bots!
 
 This project provides a skeleton illustrating how a user can periodically filter through conversations and comments on Reddit, and upload responses to individual comments based on a set of rules & targets. 
 
