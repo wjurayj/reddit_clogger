@@ -9,3 +9,7 @@ NOTE: DO NOT DEPLOY THIS SYSTEM WITHOUT UPDATING `openai.api_base` TO REFLECT YO
 
 This program should serve as a cautionary demonstration about the dangers of conversations with strangers on the internet. Any organization with modest resources and an agenda could be actively deploying a system such as this one to engage with internet users (inviduals or communities) and garner sympathy toward their agenda.
 
+Related reading:
+
+https://www.scientificamerican.com/article/how-ai-could-take-over-elections-and-undermine-democracy/
+
